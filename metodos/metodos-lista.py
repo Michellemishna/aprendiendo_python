@@ -41,3 +41,7 @@ print(lista2)
 #CLEAR elimina todos los elementos de una lista
 lista.clear()
 print(lista)
+
+
+#en tupla solo se puede usar el index y buscar elementos
+#en conjuntos solo se puede agregar remover elementos
