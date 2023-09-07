@@ -57,7 +57,7 @@ print(termina_con)
 cadena_nueva =cadena1.replace("ola","ello")
 print(cadena_nueva)
 
-#SPLIt separa por el parametro dado
+#SPLIT separa por el parametro dado
 cadena_separada = cadena1.split(" ")
 print(cadena_separada)
  
