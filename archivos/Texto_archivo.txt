@@ -1,0 +1,2 @@
+Hola aprendiendo lectura de archivos de texto
+hora 5.54
