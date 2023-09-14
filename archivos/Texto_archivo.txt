@@ -1,2 +1,9 @@
-Hola aprendiendo lectura de archivos de texto
-hora 5.54
+Hola Maestro
+¿Cómo andas?
+Hola de nuevo
+¿Que pasa?agregando un texto a un archivo
+Linea 1 agregada.
+Linea 2 agregada.
+Linea 3 agregada.
+Linea 4 agregada.
+Linea 5 agregada.
